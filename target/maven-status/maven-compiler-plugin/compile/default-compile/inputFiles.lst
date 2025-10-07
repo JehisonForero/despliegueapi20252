@@ -1,0 +1,14 @@
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\DTO\EstudianteDTO.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\DTO\SQL1Universidad.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\entity\EstudianteEntity.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\entity\UniversidadEntity.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\entity\VehiculoEntity.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\MiSegundaApiApplication.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\repository\EstudianteRepository.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\repository\UniversidadRepository.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\rest\EstudianteRest.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\rest\UniversidadRest.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\sevices\IEstudianteService.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\sevices\implement\EstudianteServiceImplement.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\sevices\implement\UniversidadServiceImplement.java
+C:\andres\Universidad\9 semestre\Electiva 3\miSegundaApi\src\main\java\com\example\misegundaapi\sevices\IUniversidadService.java
